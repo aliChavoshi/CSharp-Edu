@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\bin\Debug\netcoreapp3.1\Lambda_Expressions.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\bin\Debug\netcoreapp3.1\Lambda_Expressions.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\bin\Debug\netcoreapp3.1\Lambda_Expressions.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\bin\Debug\netcoreapp3.1\Lambda_Expressions.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\bin\Debug\netcoreapp3.1\Lambda_Expressions.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\bin\Debug\netcoreapp3.1\Lambda_Expressions.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\obj\Debug\netcoreapp3.1\Lambda_Expressions.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\obj\Debug\netcoreapp3.1\Lambda_Expressions.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\obj\Debug\netcoreapp3.1\Lambda_Expressions.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\obj\Debug\netcoreapp3.1\Lambda_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\obj\Debug\netcoreapp3.1\Lambda_Expressions.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\obj\Debug\netcoreapp3.1\Lambda_Expressions.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Lambda_Expressions\Lambda_Expressions\Lambda_Expressions\obj\Debug\netcoreapp3.1\Lambda_Expressions.genruntimeconfig.cache

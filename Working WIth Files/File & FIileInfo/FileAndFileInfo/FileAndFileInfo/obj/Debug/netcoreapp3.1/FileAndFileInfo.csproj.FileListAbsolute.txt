@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File & FIileInfo\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.genruntimeconfig.cache

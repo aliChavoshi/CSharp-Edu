@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\bin\Debug\netcoreapp3.1\StopWatch Exercise.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\bin\Debug\netcoreapp3.1\StopWatch Exercise.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\bin\Debug\netcoreapp3.1\StopWatch Exercise.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\bin\Debug\netcoreapp3.1\StopWatch Exercise.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\bin\Debug\netcoreapp3.1\StopWatch Exercise.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\bin\Debug\netcoreapp3.1\StopWatch Exercise.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\obj\Debug\netcoreapp3.1\StopWatch Exercise.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\obj\Debug\netcoreapp3.1\StopWatch Exercise.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\obj\Debug\netcoreapp3.1\StopWatch Exercise.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\obj\Debug\netcoreapp3.1\StopWatch Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\obj\Debug\netcoreapp3.1\StopWatch Exercise.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\obj\Debug\netcoreapp3.1\StopWatch Exercise.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\StopWatch Exercise\StopWatch Exercise\obj\Debug\netcoreapp3.1\StopWatch Exercise.genruntimeconfig.cache

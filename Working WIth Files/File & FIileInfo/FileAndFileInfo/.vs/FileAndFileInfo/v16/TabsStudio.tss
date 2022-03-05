@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File &amp; FIileInfo\FileAndFileInfo\FileAndFileInfo\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File &amp; FIileInfo\FileAndFileInfo\FileAndFileInfo\Path.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File &amp; FIileInfo\FileAndFileInfo\FileAndFileInfo\FIleInfo.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File &amp; FIileInfo\FileAndFileInfo\FileAndFileInfo\Directory.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Working WIth Files\File &amp; FIileInfo\FileAndFileInfo\FileAndFileInfo\DirectoryInfo.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

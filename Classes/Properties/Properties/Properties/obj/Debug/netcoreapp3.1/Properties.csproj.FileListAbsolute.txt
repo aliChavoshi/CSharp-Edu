@@ -1,0 +1,39 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Classes\Properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache

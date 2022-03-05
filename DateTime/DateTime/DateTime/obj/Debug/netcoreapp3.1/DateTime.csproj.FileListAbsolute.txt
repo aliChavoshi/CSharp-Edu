@@ -1,0 +1,26 @@
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\DateTime\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache

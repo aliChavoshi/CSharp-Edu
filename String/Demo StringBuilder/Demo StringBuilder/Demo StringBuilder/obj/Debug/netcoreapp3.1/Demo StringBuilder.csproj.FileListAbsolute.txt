@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\bin\Debug\netcoreapp3.1\Demo StringBuilder.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\bin\Debug\netcoreapp3.1\Demo StringBuilder.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\bin\Debug\netcoreapp3.1\Demo StringBuilder.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\bin\Debug\netcoreapp3.1\Demo StringBuilder.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\bin\Debug\netcoreapp3.1\Demo StringBuilder.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\bin\Debug\netcoreapp3.1\Demo StringBuilder.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\obj\Debug\netcoreapp3.1\Demo StringBuilder.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\obj\Debug\netcoreapp3.1\Demo StringBuilder.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\obj\Debug\netcoreapp3.1\Demo StringBuilder.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\obj\Debug\netcoreapp3.1\Demo StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\obj\Debug\netcoreapp3.1\Demo StringBuilder.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\obj\Debug\netcoreapp3.1\Demo StringBuilder.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Demo StringBuilder\Demo StringBuilder\Demo StringBuilder\obj\Debug\netcoreapp3.1\Demo StringBuilder.genruntimeconfig.cache

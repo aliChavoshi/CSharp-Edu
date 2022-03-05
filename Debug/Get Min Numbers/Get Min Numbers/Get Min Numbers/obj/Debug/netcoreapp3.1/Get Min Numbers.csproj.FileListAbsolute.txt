@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\bin\Debug\netcoreapp3.1\Get Min Numbers.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\bin\Debug\netcoreapp3.1\Get Min Numbers.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\bin\Debug\netcoreapp3.1\Get Min Numbers.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\bin\Debug\netcoreapp3.1\Get Min Numbers.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\bin\Debug\netcoreapp3.1\Get Min Numbers.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\bin\Debug\netcoreapp3.1\Get Min Numbers.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\obj\Debug\netcoreapp3.1\Get Min Numbers.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\obj\Debug\netcoreapp3.1\Get Min Numbers.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\obj\Debug\netcoreapp3.1\Get Min Numbers.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\obj\Debug\netcoreapp3.1\Get Min Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\obj\Debug\netcoreapp3.1\Get Min Numbers.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\obj\Debug\netcoreapp3.1\Get Min Numbers.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Debug\Get Min Numbers\Get Min Numbers\Get Min Numbers\obj\Debug\netcoreapp3.1\Get Min Numbers.genruntimeconfig.cache

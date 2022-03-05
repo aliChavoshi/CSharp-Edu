@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\bin\Debug\netcoreapp3.1\Random Class.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\bin\Debug\netcoreapp3.1\Random Class.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\bin\Debug\netcoreapp3.1\Random Class.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\bin\Debug\netcoreapp3.1\Random Class.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\bin\Debug\netcoreapp3.1\Random Class.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\bin\Debug\netcoreapp3.1\Random Class.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\obj\Debug\netcoreapp3.1\Random Class.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\obj\Debug\netcoreapp3.1\Random Class.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\obj\Debug\netcoreapp3.1\Random Class.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\obj\Debug\netcoreapp3.1\Random Class.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\obj\Debug\netcoreapp3.1\Random Class.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\obj\Debug\netcoreapp3.1\Random Class.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\Random Class\Random Class\Random Class\obj\Debug\netcoreapp3.1\Random Class.genruntimeconfig.cache

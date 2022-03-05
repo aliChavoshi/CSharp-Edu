@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Exercise\Stack Exercise\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.genruntimeconfig.cache

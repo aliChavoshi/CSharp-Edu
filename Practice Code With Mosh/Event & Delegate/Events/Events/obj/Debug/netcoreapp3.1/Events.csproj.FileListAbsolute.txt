@@ -1,0 +1,26 @@
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Ali Chavoshi\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Event & Delegate\Events\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\bin\Debug\netcoreapp3.1\StringLearning.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\bin\Debug\netcoreapp3.1\StringLearning.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\bin\Debug\netcoreapp3.1\StringLearning.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\bin\Debug\netcoreapp3.1\StringLearning.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\bin\Debug\netcoreapp3.1\StringLearning.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\bin\Debug\netcoreapp3.1\StringLearning.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\obj\Debug\netcoreapp3.1\StringLearning.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\obj\Debug\netcoreapp3.1\StringLearning.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\obj\Debug\netcoreapp3.1\StringLearning.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\obj\Debug\netcoreapp3.1\StringLearning.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\obj\Debug\netcoreapp3.1\StringLearning.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\obj\Debug\netcoreapp3.1\StringLearning.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\StringLearning\StringLearning\obj\Debug\netcoreapp3.1\StringLearning.genruntimeconfig.cache

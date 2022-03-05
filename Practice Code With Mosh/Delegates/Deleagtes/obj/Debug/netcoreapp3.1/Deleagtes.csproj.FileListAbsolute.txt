@@ -1,0 +1,26 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.genruntimeconfig.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\bin\Debug\netcoreapp3.1\Deleagtes.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Delegates\Deleagtes\obj\Debug\netcoreapp3.1\Deleagtes.genruntimeconfig.cache

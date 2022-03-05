@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\bin\Debug\netcoreapp3.1\Introduction to Classes.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\bin\Debug\netcoreapp3.1\Introduction to Classes.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\bin\Debug\netcoreapp3.1\Introduction to Classes.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\bin\Debug\netcoreapp3.1\Introduction to Classes.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\bin\Debug\netcoreapp3.1\Introduction to Classes.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\bin\Debug\netcoreapp3.1\Introduction to Classes.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\obj\Debug\netcoreapp3.1\Introduction to Classes.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\obj\Debug\netcoreapp3.1\Introduction to Classes.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\obj\Debug\netcoreapp3.1\Introduction to Classes.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\obj\Debug\netcoreapp3.1\Introduction to Classes.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\obj\Debug\netcoreapp3.1\Introduction to Classes.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\obj\Debug\netcoreapp3.1\Introduction to Classes.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Introduction to Classes\Introduction to Classes\Introduction to Classes\obj\Debug\netcoreapp3.1\Introduction to Classes.genruntimeconfig.cache

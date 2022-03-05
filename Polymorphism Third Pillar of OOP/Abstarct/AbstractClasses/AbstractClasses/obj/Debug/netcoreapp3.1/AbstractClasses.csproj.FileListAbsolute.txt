@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Intermediate-Part2\Polymorphism Third Pillar of OOP\Abstarct\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

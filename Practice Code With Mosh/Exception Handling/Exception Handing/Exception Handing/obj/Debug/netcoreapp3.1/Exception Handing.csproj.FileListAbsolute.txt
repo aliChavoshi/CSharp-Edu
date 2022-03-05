@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\bin\Debug\netcoreapp3.1\Exception Handing.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\bin\Debug\netcoreapp3.1\Exception Handing.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\bin\Debug\netcoreapp3.1\Exception Handing.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\bin\Debug\netcoreapp3.1\Exception Handing.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\bin\Debug\netcoreapp3.1\Exception Handing.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\bin\Debug\netcoreapp3.1\Exception Handing.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\obj\Debug\netcoreapp3.1\Exception Handing.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\obj\Debug\netcoreapp3.1\Exception Handing.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\obj\Debug\netcoreapp3.1\Exception Handing.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\obj\Debug\netcoreapp3.1\Exception Handing.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\obj\Debug\netcoreapp3.1\Exception Handing.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\obj\Debug\netcoreapp3.1\Exception Handing.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\Part3 - C# Advanced\Practice Code With Mosh\Exception Handling\Exception Handing\Exception Handing\obj\Debug\netcoreapp3.1\Exception Handing.genruntimeconfig.cache

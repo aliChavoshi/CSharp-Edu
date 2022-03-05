@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\bin\Debug\netcoreapp3.1\Procedural Programming.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\bin\Debug\netcoreapp3.1\Procedural Programming.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\bin\Debug\netcoreapp3.1\Procedural Programming.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\bin\Debug\netcoreapp3.1\Procedural Programming.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\bin\Debug\netcoreapp3.1\Procedural Programming.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\bin\Debug\netcoreapp3.1\Procedural Programming.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\obj\Debug\netcoreapp3.1\Procedural Programming.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\obj\Debug\netcoreapp3.1\Procedural Programming.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\obj\Debug\netcoreapp3.1\Procedural Programming.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\obj\Debug\netcoreapp3.1\Procedural Programming.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\obj\Debug\netcoreapp3.1\Procedural Programming.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\obj\Debug\netcoreapp3.1\Procedural Programming.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C# Basic\String\Procedural Programming\Procedural Programming\Procedural Programming\obj\Debug\netcoreapp3.1\Procedural Programming.genruntimeconfig.cache

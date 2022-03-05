@@ -1,0 +1,13 @@
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\ac4136\Google Drive\Developer\MoshHamedani\C#\C# Advanced-Part3\Practice Code With Mosh\Generic\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
